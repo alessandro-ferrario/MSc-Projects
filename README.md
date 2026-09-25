@@ -1,0 +1,1 @@
+Academic projects, laboratory reports, and simulations in Vehicle Dynamics, Race Engineering, Telemetry Analysis, and Suspension Design. Developed during the MSc in Mechanical & Motorsport Engineering at Politecnico di Milano, featuring numerical modeling, kinematic studies, setup optimization, and mechanical design validation.
