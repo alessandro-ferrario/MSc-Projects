@@ -2,7 +2,7 @@
 
 - **Course:** Vehicle Dynamics and Control A | Politecnico di Milano
 - **Instructors:** Prof. F. Cheli, Prof. M. Vignati, Dr. M. Belloni
-- **Date:** February 2025 - June 2025
+- **Academic Year:** 2024 - 2025
 
 ## Course Overview
 This folder contains the laboratory report developed for the *Vehicle Dynamics and Control A* course. The project focuses on the mathematical modeling and simulation of a vehicle's longitudinal, vertical, and lateral dynamics. It explores the implementation of advanced tire-road contact models and the design of active control systems to optimize stability, performance, and comfort.
