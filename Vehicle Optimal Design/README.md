@@ -2,7 +2,7 @@
 
 - **Course:** Vehicle Optimal Design | Politecnico di Milano 
 - **Instructors:** Prof. M. Gobbi, Eng. P. Stabile 
-- **Date:** September 2025 - December 2025 
+- **Academic Year:** 2025 - 2026 
 
 ## Course Overview
 This folder contains the laboratory reports and numerical models developed for the *Vehicle Optimal Design* course. The project focuses on applying advanced mathematical optimization techniques to solve complex engineering problems related to vehicle subsystems design. The goal is to evaluate single and multi-objective optimization algorithms to find the best trade-offs in conflicting vehicle dynamics metrics.
