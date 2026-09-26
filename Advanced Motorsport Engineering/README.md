@@ -51,6 +51,6 @@ This folder contains the numerical simulations, lap time analyses, and telemetry
 * **Methods/Keywords:** Setup Analysis, Telemetry Comparison, Understeer Gradient, Design of Experiments (DoE), Spring Stiffness.
 * **Software:** VI-CRT / VI-grade, MATLAB
 
-### 8. Industrial Motorsport Seminars
+### Motorsport Seminars
 * **Goal:** Integration of professional motorsport insights covering race engineering, sustainability, Formula 1 setup strategies, tire design (racing and cycling), motorcycle simulation, and electric motor hardware for racing applications.
 * **Methods/Keywords:** Race Engineering, F1 Setup, Sustainability, Motorsport Technology, Electric Motors.
