@@ -7,6 +7,8 @@
 ## Course Overview
 This folder contains the numerical simulations, lap time analyses, and telemetry reports developed for the *Advanced Motorsport Engineering* course. The report covers a comprehensive race engineering workflow: from fundamental vehicle performance calculations and tire thermal modeling, to advanced lap time simulations (via OpenLAP and VI-CRT) and real-world telemetry data analysis (WinTax). The goal is to optimize race vehicle setup, aerodynamics, and race strategies while adhering to thermal, dynamic, and energy constraints.
 
+**Full Table of Contents & Course Structure:** 
+
 ---
 
 ## 🔬 Laboratory Activities & Projects
