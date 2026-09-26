@@ -18,5 +18,5 @@ This folder contains the numerical simulations, mesh sensitivity analyses, and f
 
 ### 2. External Aerodynamic Analysis of a NACA 4412 Airfoil
 * **Goal:** Simulation of external flow around a 2D NACA 4412 aerodynamic profile. Compares different RANS turbulence closures (Spalart-Allmaras vs. k-epsilon) with and without wall functions, evaluates wake velocity deficits downstream, and computes lift (C_L) and drag (C_D) polar characteristics.
-* **Methods/Keywords:** External Aerodynamics, Airfoil Polar, Spalart-Allmaras (SA), k-varepsilon, Wall Functions, Aerodynamic Coefficients (C_L, C_D), Wake.
+* **Methods/Keywords:** External Aerodynamics, Airfoil Polar, Spalart-Allmaras (SA), k-epsilon, Wall Functions, Aerodynamic Coefficients (C_L, C_D), Wake.
 * **Software:** OpenFOAM, ParaView, MATLAB
