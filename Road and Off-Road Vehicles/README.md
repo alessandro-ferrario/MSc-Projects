@@ -39,8 +39,8 @@ This folder contains the design reports, kinematic models, structural FEM analys
 * **Methods/Keywords:** McPherson Kinematics, Lower Control Arm, Topological Optimization, FEM Structural Validation, Technical Drawing.
 * **Software:** MATLAB, 3D Experience (CATIA)
 * **Deliverables:**
-  * [Lower Arm Production Drawing (PDF)](./LOWER_ARM_QUOTATA_V3_MAURO.pdf)
-  * [Suspension Assembly Drawing (PDF)](./MCFRATM_ASSEMBLY_V4.pdf)
+  * [Lower Arm Production Drawing (PDF)](./LowerArmDrawing.pdf)
+  * [Suspension Assembly Drawing (PDF)](./McPherson drawing.pdf)
 
 ### 7. Aluminum Wheel Rim Fatigue Life Evaluation
 * **Goal:** Perform structural fatigue life prediction for an aluminum alloy wheel rim using finite element modeling under dynamic cornering test standards (rotating bending moment and Sines equivalent stress criterion).
