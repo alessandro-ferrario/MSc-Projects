@@ -40,7 +40,7 @@ This folder contains the design reports, kinematic models, structural FEM analys
 * **Software:** MATLAB, 3D Experience (CATIA)
 * **Deliverables:**
   * [Lower Arm Production Drawing (PDF)](./LowerArmDrawing.pdf)
-  * [Suspension Assembly Drawing (PDF)](./McPherson drawing.pdf)
+  * [Suspension Assembly Drawing (PDF)](./McPhersonDrawing.pdf)
 
 ### 7. Aluminum Wheel Rim Fatigue Life Evaluation
 * **Goal:** Perform structural fatigue life prediction for an aluminum alloy wheel rim using finite element modeling under dynamic cornering test standards (rotating bending moment and Sines equivalent stress criterion).
